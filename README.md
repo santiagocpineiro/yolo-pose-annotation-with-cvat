@@ -23,3 +23,8 @@ To run the scripts in this repository, you will need:
 
 
 This will process the annotation data and prepare it for YOLO model training.
+
+## Annotation Process
+
+We have documented the image annotation process using cvat.ai extensively in our [Project Wiki](https://github.com/santiagocpineiro/yolo-pose-annotation-with-cvat.wiki.git).
+
