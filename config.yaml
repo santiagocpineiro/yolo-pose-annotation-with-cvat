@@ -1,0 +1,12 @@
+#Data
+path: /content/gdrive/MyDrive/YOLO/pose
+train: images/train
+val: images/validation
+
+#Keypoints
+kpt_shape: [10, 3] #num total de keypoints entre todas las clases y el número de clases
+
+#classes
+names:
+0: pen
+1: mouse

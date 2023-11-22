@@ -1,0 +1,14 @@
+{
+  "class": {
+    "0": {
+      "id": 0,
+      "name": "pen",
+      "keypoints_amount": 4
+    },
+    "1": {
+      "id": 1,
+      "name": "mouse",
+      "keypoints_amount": 6
+    }
+  }
+}
